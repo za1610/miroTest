@@ -1,0 +1,8 @@
+com/miro/hometask/exceptions/WidgetNotFoundException.class
+com/miro/hometask/ServletInitializer.class
+com/miro/hometask/service/WidgetService.class
+com/miro/hometask/repository/WidgetRepository.class
+com/miro/hometask/controller/WidgetController.class
+com/miro/hometask/repository/impl/InMemoryWidgetRepository.class
+com/miro/hometask/models/Widget.class
+com/miro/hometask/MiroApplication.class

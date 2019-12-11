@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS WIDGETS;
+
+CREATE TABLE WIDGETS (
+  id NUMERIC(19,0) IDENTITY PRIMARY KEY,
+  x INT,
+  y INT,
+  z INT,
+  width DOUBLE,
+  height DOUBLE,
+  lastModificationDate DATE
+);

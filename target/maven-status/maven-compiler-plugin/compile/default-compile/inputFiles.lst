@@ -1,0 +1,9 @@
+/Users/Zhanar/Work/demo/src/main/java/com/miro/hometask/ServletInitializer.java
+/Users/Zhanar/Work/demo/src/main/java/com/miro/hometask/service/WidgetService.java
+/Users/Zhanar/Work/demo/src/main/java/com/miro/hometask/repository/impl/InMemoryWidgetRepository.java
+/Users/Zhanar/Work/demo/src/main/java/com/miro/hometask/exceptions/WidgetNotFoundException.java
+/Users/Zhanar/Work/demo/src/main/java/com/miro/hometask/repository/WidgetRepository.java
+/Users/Zhanar/Work/demo/src/main/java/com/miro/hometask/controller/WidgetController.java
+/Users/Zhanar/Work/demo/src/main/java/com/miro/hometask/JacksonConfig.java
+/Users/Zhanar/Work/demo/src/main/java/com/miro/hometask/models/Widget.java
+/Users/Zhanar/Work/demo/src/main/java/com/miro/hometask/MiroApplication.java
